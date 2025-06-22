@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: This is the title in index.md
 ---
-# This is the blog
+# This is the h1 in index.md
