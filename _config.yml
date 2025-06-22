@@ -1,4 +1,4 @@
 theme: minima
-title: my personal blog
-description: This is the description
-author: some author
+title: this is the title in _config.yml
+description: This is the description in _config.yml
+author: This is the author in _config.yml
